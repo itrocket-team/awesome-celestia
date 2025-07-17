@@ -713,9 +713,9 @@ https://github.com/DasRasyo/Celestia-mocha-4
 
 ### Wavefive
 #### Mainnet
-1. Archive RPC [https://celestia-rpc.0xcryptovestor.com]
-2. Archive gRPC [https://celestia-grpc.0xcryptovestor.com]
-3. Archive API [https://celestia-api.0xcryptovestor.com]
+1. Archive RPC [https://celestia-rpc.wavefive.xyz]
+2. Archive gRPC (access on request) [https://celestia-grpc.wavefive.xyz]
+3. Archive API [https://celestia-api.wavefive.xyz]
 
 #### Testnet
 1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
