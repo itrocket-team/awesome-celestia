@@ -396,7 +396,7 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * [Governance Bot](https://t.me/itrocket_mainnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/mainnet/celestia/#peer) #_with real time peer uptime verification_
 * [RPC Scanner](https://itrocket.net/services/mainnet/celestia/public-rpc/) #_with Raw scan results_
-* [Explorer](https://mainnet.itrocket.net/celestia/staking) #_archive
+* [Native Explorer](https://itrocket.net/services/mainnet/celestia/explorer/) #_archival endpoints
 * [Fibre Explorer](https://itrocket.net/services/mainnet/celestia/analytics/fibre-monitor/) #_Fibre providers, analytics & API_
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap) #_pruned, upd every 4h_
@@ -435,7 +435,7 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * [Governance Bot](https://t.me/itrocket_testnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/testnet/celestia/#peer) #_with real time peer uptime verification_
 * [RPC Scanner](https://itrocket.net/services/testnet/celestia/public-rpc/) #_with Raw scan results_
-* [Explorer](https://testnet.itrocket.net/celestia/staking) #_archive
+* [Native Explorer](https://itrocket.net/services/testnet/celestia/explorer/) #_archival endpoints
 * [Fibre Explorer](https://itrocket.net/services/testnet/celestia/analytics/fibre-monitor/) #_Fibre providers, analytics & API_
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap) #_pruned, upd every 4h_
